@@ -15,6 +15,7 @@ namespace PositionCalculator.Tests
     {
         Data.IDataReader _dataReader;
 
+
         [Test]
         public void TestBoxPositionCalculator()
         {
